@@ -54,6 +54,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [DB-Fiddle](https://www.db-fiddle.com/) – Entorno online para probar consultas SQL.
 - [Public APIs](https://github.com/public-apis/public-apis) – Directorio de APIs gratuitas para practicar.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) – Listado enorme de datasets clasificados por tema.
+- [Datahub](https://datahub.io) – Plataforma para explorar, compartir y encontrar datasets en línea de forma abierta.
 
 ---
 
