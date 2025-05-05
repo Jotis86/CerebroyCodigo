@@ -18,6 +18,8 @@ Si te gusta aprender de forma práctica, visual y con materiales claros, este re
 
 ## 🧭 Índice de contenidos
 
+<h2 style="color:#4287f5">🧭 Índice de contenidos</h2>
+
 Cada sección agrupa los materiales por temática, y dentro encontrarás PDFs descargables organizados por carpetas.
 Este repositorio está pensado para acompañarte en tu camino de aprendizaje o para consultar cuando lo necesites.
 
