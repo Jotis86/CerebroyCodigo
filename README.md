@@ -25,13 +25,13 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 
 Recursos esenciales para sentar una base sólida en programación, buenas prácticas, herramientas y control de versiones.
 
-- [Python (general)](./1_Fundamentos/Python.pdf)
-- [Buenas prácticas en Python](./1_Fundamentos/Buenas_practicas_Python.pdf)
-- [Automatización con Python](./1_Fundamentos/Automatizacion_Python.pdf)
-- [Testing en Python](./1_Fundamentos/Testing_Python.pdf)
-- [Pytest](./1_Fundamentos/Pytest.pdf)
-- [IDEs](./1_Fundamentos/IDEs.pdf)
-- [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf)
+- [Python (general)](./1_Fundamentos/Python.pdf) – Fundamentos del lenguaje, sintaxis y conceptos clave para comenzar.
+- [Buenas prácticas en Python](./1_Fundamentos/Buenas_practicas_Python.pdf) – Convenciones, patrones y estilos recomendados para código limpio.
+- [Automatización con Python](./1_Fundamentos/Automatizacion_Python.pdf) – Técnicas para automatizar tareas repetitivas y flujos de trabajo.
+- [Testing en Python](./1_Fundamentos/Testing_Python.pdf) – Conceptos de pruebas unitarias e integración para código confiable.
+- [Pytest](./1_Fundamentos/Pytest.pdf) – Framework popular para testing en Python, con ejemplos prácticos.
+- [IDEs](./1_Fundamentos/IDEs.pdf) – Entornos de desarrollo integrados para programar de forma eficiente.
+- [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf) – Control de versiones y colaboración en proyectos de software.
 
 ---
 
@@ -39,11 +39,11 @@ Recursos esenciales para sentar una base sólida en programación, buenas práct
 
 Material para adquirir habilidades en la recolección, limpieza y acceso a datos desde diversas fuentes, incluyendo scraping y APIs.
 
-- [Bases de datos](./2_Gestion_Datos/Bases_de_datos.pdf)
-- [Obtención de datos](./2_Gestion_Datos/Obtencion_datos.pdf)
-- [Limpieza de datos con Python](./2_Gestion_Datos/Limpieza_datos_Python.pdf)
-- [Web Scraping](./2_Gestion_Datos/Web_Scraping.pdf)
-- [APIs](./2_Gestion_Datos/APIs.pdf)
+- [Bases de datos](./2_Gestion_Datos/Bases_de_datos.pdf) – Fundamentos de SQL, NoSQL y diseño de sistemas de almacenamiento.
+- [Obtención de datos](./2_Gestion_Datos/Obtencion_datos.pdf) – Métodos y fuentes para adquirir datos de diversas procedencias.
+- [Limpieza de datos con Python](./2_Gestion_Datos/Limpieza_datos_Python.pdf) – Técnicas para preprocesar y transformar datos desordenados.
+- [Web Scraping](./2_Gestion_Datos/Web_Scraping.pdf) – Extracción automática de información de sitios web con Python.
+- [APIs](./2_Gestion_Datos/APIs.pdf) – Consumo y creación de interfaces de programación para intercambio de datos.
 - [SQLBolt](https://sqlbolt.com/) – Lecciones interactivas para aprender SQL desde cero.
 - [DrawSQL](https://drawsql.app/) – Crea y comparte diagramas de bases de datos de forma visual.
 
@@ -53,13 +53,13 @@ Material para adquirir habilidades en la recolección, limpieza y acceso a datos
 
 Documentos enfocados en analizar, entender y comunicar datos mediante herramientas y técnicas de visualización.
 
-- [Python en análisis de datos](./3_Analisis_Visualizacion/Python_Analisis_Datos.pdf)
-- [Tipos de gráficos](./3_Analisis_Visualizacion/Tipos_graficos.pdf)
-- [Visualización de datos con Python](./3_Analisis_Visualizacion/Visualizacion_Python.pdf)
-- [Herramientas en análisis de datos](./3_Analisis_Visualizacion/Herramientas_Analisis.pdf)
-- [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf)
-- [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf)
-- [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf)
+- [Python en análisis de datos](./3_Analisis_Visualizacion/Python_Analisis_Datos.pdf) – Numpy, Pandas y bibliotecas esenciales para análisis.
+- [Tipos de gráficos](./3_Analisis_Visualizacion/Tipos_graficos.pdf) – Guía sobre cuándo usar cada tipo de visualización según tus datos.
+- [Visualización de datos con Python](./3_Analisis_Visualizacion/Visualizacion_Python.pdf) – Matplotlib, Seaborn y Plotly para crear gráficos efectivos.
+- [Herramientas en análisis de datos](./3_Analisis_Visualizacion/Herramientas_Analisis.pdf) – Comparativa de tecnologías para procesar y analizar datos.
+- [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf) – Software y plataformas para crear dashboards y reportes visuales.
+- [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf) – Introducción a la herramienta de Microsoft para business intelligence.
+- [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
 
 ---
 
@@ -67,11 +67,11 @@ Documentos enfocados en analizar, entender y comunicar datos mediante herramient
 
 Recursos introductorios y prácticos sobre modelos de ML, deep learning y herramientas de IA aplicadas a problemas reales.
 
-- [Machine Learning](./4_ML_IA/Machine_Learning.pdf)
-- [Proyectos de ML](./4_ML_IA/Proyectos_ML.pdf)
-- [Deep Learning](./4_ML_IA/Deep_Learning.pdf)
-- [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf)
-- [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf)
+- [Machine Learning](./4_ML_IA/Machine_Learning.pdf) – Fundamentos, algoritmos y metodología para crear modelos predictivos.
+- [Proyectos de ML](./4_ML_IA/Proyectos_ML.pdf) – Ideas y guías paso a paso para implementar soluciones de ML prácticas.
+- [Deep Learning](./4_ML_IA/Deep_Learning.pdf) – Redes neuronales, frameworks y aplicaciones avanzadas de IA.
+- [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf) – Ecosistema de librerías y plataformas para desarrollo de IA.
+- [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf) – Aplicaciones específicas y casos de uso de tecnologías de IA.
 
 ---
 
@@ -79,9 +79,9 @@ Recursos introductorios y prácticos sobre modelos de ML, deep learning y herram
 
 Guías visuales para orientarte en tu camino como desarrollador o en data, paso a paso.
 
-- [Roadmap to Python](./5_Roadmaps/Roadmap_Python.pdf)
-- [Roadmap to Data Analyst](./5_Roadmaps/Roadmap_Data_Analyst.pdf)
-- [Roadmap to Data Scientist](./5_Roadmaps/Roadmap_Data_Scientist.pdf)
+- [Roadmap to Python](./5_Roadmaps/Roadmap_Python.pdf) – Ruta de aprendizaje desde principiante hasta desarrollador Python avanzado.
+- [Roadmap to Data Analyst](./5_Roadmaps/Roadmap_Data_Analyst.pdf) – Habilidades y tecnologías para convertirte en analista de datos.
+- [Roadmap to Data Scientist](./5_Roadmaps/Roadmap_Data_Scientist.pdf) – Camino completo hacia el perfil técnico de científico de datos.
 
 ---
 
@@ -89,10 +89,10 @@ Guías visuales para orientarte en tu camino como desarrollador o en data, paso 
 
 Recursos para dar vida a tus proyectos: desde desarrollo web hasta despliegue con Streamlit y contenedores Docker.
 
-- [Desarrollo Web](./6_Desarrollo/Desarrollo_Web.pdf)
-- [Streamlit](./6_Desarrollo/Streamlit.pdf)
-- [Docker](./6_Desarrollo/Docker.pdf)
-- [DevOps](./6_Desarrollo/DevOps.pdf)
+- [Desarrollo Web con Python](./6_Desarrollo/Desarrollo_Web.pdf) – Django y Flask para construcción de páginas web.
+- [Streamlit](./6_Desarrollo/Streamlit.pdf) – Crea aplicaciones web de datos interactivas con Python y mínimo código.
+- [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
+- [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
 
 ---
 
@@ -100,8 +100,8 @@ Recursos para dar vida a tus proyectos: desde desarrollo web hasta despliegue co
 
 Material para entender mejor los distintos roles en datos, metodologías de trabajo y cómo desenvolverse en equipos ágiles.
 
-- [Roles en Datos](./7_Carrera/Roles_en_Datos.pdf)
-- [Metodología Ágil](./7_Carrera/Metodologia_Agil.pdf)
+- [Roles en Datos](./7_Carrera/Roles_en_Datos.pdf) – Descripción de perfiles profesionales en el ecosistema de datos.
+- [Metodología Ágil](./7_Carrera/Metodologia_Agil.pdf) – Scrum, Kanban y enfoques iterativos para gestionar proyectos de datos.
 
 ---
 
@@ -109,7 +109,7 @@ Material para entender mejor los distintos roles en datos, metodologías de trab
 
 Otros recursos útiles para practicar y seguir aprendiendo.
 
-- [Pygame](./8_Otros/Pygame.pdf)
+- [Pygame](./8_Otros/Pygame.pdf) – Desarrollo de videojuegos 2D con Python para proyectos divertidos.
 - [Git Diagram](https://gitdiagram.com) – Visualiza flujos de Git con diagramas automáticos.
 - [Git Summarize](https://gitsummarize.com) – Resume la historia de tus commits en segundos.
 - [Draw.io](https://www.drawio.com) – Crea diagramas técnicos, flujos y mapas mentales de forma visual.
