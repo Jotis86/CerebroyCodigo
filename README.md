@@ -122,7 +122,6 @@ Si estos recursos te han ayudado en tu camino de aprendizaje, aquí hay algunas 
 - 🐛 **Reporta errores** o sugiere mejoras abriendo un [issue](https://github.com/Jotis86/JotisAcademy/issues)
 - 📝 **Envía propuestas de material** mediante:
   - Un [issue](https://github.com/Jotis86/JotisAcademy/issues) describiendo el contenido que propones
-  - Un pull request con tu material en formato PDF o Markdown
   - Un correo a [jotaduranbon@gmail.com] con el asunto "Propuesta JotisAcademy"
 - 🔍 **Revisa** los contenidos existentes y sugiere actualizaciones
 
