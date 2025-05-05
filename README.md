@@ -10,9 +10,9 @@
 [![Recursos](https://img.shields.io/badge/Recursos-40%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
 
 
-¡Hola! Soy Juan 👋 y este repositorio es mi forma de centralizar todo lo que voy aprendiendo, explicando y compartiendo sobre tecnología: desde Python y análisis de datos hasta DevOps, IA y más.
+Hola! Soy Juan 👋 y este repositorio es mi forma de centralizar todo lo que voy aprendiendo, explicando y compartiendo sobre tecnología: desde Python y análisis de datos hasta DevOps, IA y más.
 
-Si te gusta aprender de forma práctica, visual y con materiales claros, este repo es para ti 🚀
+Si te gusta aprender de forma práctica, visual y con materiales claros, este repo es para ti! 
 
 ---
 
