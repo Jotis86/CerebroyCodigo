@@ -118,7 +118,7 @@ Otros recursos útiles para practicar y seguir aprendiendo.
 Si estos recursos te han ayudado en tu camino de aprendizaje, aquí hay algunas formas de contribuir:
 
 - ⭐ **Dale una estrella** al repositorio para hacerlo más visible
-- 🔄 **Comparte** estos materiales con colegas y amigos que puedan beneficiarse
+- 🔄 **Comparte** estos materiales con quien creas que puede beneficiarse
 - 🐛 **Reporta errores** o sugiere mejoras abriendo un [issue](https://github.com/Jotis86/JotisAcademy/issues)
 - 📝 **Envía propuestas de material** mediante:
   - Un [issue](https://github.com/Jotis86/JotisAcademy/issues) describiendo el contenido que propones
@@ -126,6 +126,8 @@ Si estos recursos te han ayudado en tu camino de aprendizaje, aquí hay algunas 
   - Un correo a [jotaduranbon@gmail.com] con el asunto "Propuesta JotisAcademy"
 - 🔍 **Revisa** los contenidos existentes y sugiere actualizaciones
 
-La tecnología se aprende mejor en comunidad. ¡Tus opiniones y contribuciones hacen que este proyecto mejore cada día! 💬
+La tecnología se aprende mejor en comunidad!
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
