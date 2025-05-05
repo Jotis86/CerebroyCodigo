@@ -82,6 +82,7 @@ Recursos introductorios y prácticos sobre modelos de ML, deep learning y herram
 - [Kaggle Learn](https://www.kaggle.com/learn) – Cursos gratuitos de ML, visualización y más.
 - [Google Colab](https://colab.research.google.com/) – Notebooks con GPUs/TPUs gratuitas.
 - [ML Playground](https://ml-playground.com/) – Visualiza algoritmos de ML en acción.
+- [TensorFlow Playground](https://playground.tensorflow.org/) – Experimenta con redes neuronales interactivamente en tu navegador.
 
 ---
 
