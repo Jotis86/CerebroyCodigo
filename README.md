@@ -109,7 +109,8 @@ Otros recursos útiles para practicar y seguir aprendiendo.
 
 - [Pygame](./8_Otros/Pygame.pdf)
 - [Git Diagram](https://gitdiagram.com) – Visualiza flujos de Git con diagramas automáticos.
-- [Git Summarize ](https://gitsummarize.com) – Resume la historia de tus commits en segundos.
+- [Git Summarize](https://gitsummarize.com) – Resume la historia de tus commits en segundos.
+- [Draw.io](https://www.drawio.com) – Crea diagramas técnicos, flujos y mapas mentales de forma visual.
 
 ---
 
