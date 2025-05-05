@@ -18,7 +18,6 @@ Si te gusta aprender de forma práctica, visual y con materiales claros, este re
 
 ## 🧭 Índice de contenidos
 
-En esta biblioteca encontrarás recursos que he creado y compartido sobre programación, análisis de datos, inteligencia artificial, desarrollo web, herramientas y mucho más.
 Cada sección agrupa los materiales por temática, y dentro encontrarás PDFs descargables organizados por carpetas.
 Este repositorio está pensado para acompañarte en tu camino de aprendizaje o para consultar cuando lo necesites.
 
