@@ -103,7 +103,7 @@ Material para entender mejor los distintos roles en datos, metodologías de trab
 
 ---
 
-### 🎮 Proyectos y Otros Recursos
+### 🎮 Otros Recursos
 
 Otros recursos útiles para practicar y seguir aprendiendo.
 
