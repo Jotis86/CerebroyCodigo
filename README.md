@@ -31,6 +31,7 @@ Si te gusta aprender de forma práctica, visual y con materiales claros, este re
 ---
 
 ### 📊 Análisis y Visualización de Datos
+- [Python en análisis de datos](./3_Analisis_Visualizacion/Python_Analisis_Datos.pdf)
 - [Tipos de gráficos](./3_Analisis_Visualizacion/Tipos_graficos.pdf)
 - [Visualización de datos con Python](./3_Analisis_Visualizacion/Visualizacion_Python.pdf)
 - [Herramientas en análisis de datos](./3_Analisis_Visualizacion/Herramientas_Analisis.pdf)
