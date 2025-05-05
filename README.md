@@ -32,6 +32,7 @@ Recursos esenciales para sentar una base sólida en programación, buenas práct
 - [Pytest](./1_Fundamentos/Pytest.pdf) – Framework popular para testing en Python, con ejemplos prácticos.
 - [IDEs](./1_Fundamentos/IDEs.pdf) – Entornos de desarrollo integrados para programar de forma eficiente.
 - [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf) – Control de versiones y colaboración en proyectos de software.
+- [Exercism](https://exercism.org/) – Mejora tus habilidades con ejercicios prácticos y mentorización.
 
 ---
 
@@ -46,6 +47,9 @@ Material para adquirir habilidades en la recolección, limpieza y acceso a datos
 - [APIs](./2_Gestion_Datos/APIs.pdf) – Consumo y creación de interfaces de programación para intercambio de datos.
 - [SQLBolt](https://sqlbolt.com/) – Lecciones interactivas para aprender SQL desde cero.
 - [DrawSQL](https://drawsql.app/) – Crea y comparte diagramas de bases de datos de forma visual.
+- [Kaggle Datasets](https://www.kaggle.com/datasets) – Miles de datasets gratuitos para practicar.
+- [DB-Fiddle](https://www.db-fiddle.com/) – Entorno online para probar consultas SQL.
+- [Public APIs](https://github.com/public-apis/public-apis) – Directorio de APIs gratuitas para practicar.
 
 ---
 
@@ -60,6 +64,9 @@ Documentos enfocados en analizar, entender y comunicar datos mediante herramient
 - [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf) – Software y plataformas para crear dashboards y reportes visuales.
 - [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf) – Introducción a la herramienta de Microsoft para business intelligence.
 - [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
+- [Data Viz Project](https://datavizproject.com/) – Catálogo visual de tipos de visualizaciones.
+- [ColorBrewer](https://colorbrewer2.org/) – Selección de paletas de colores para mapas y visualizaciones.
+
 
 ---
 
@@ -72,6 +79,9 @@ Recursos introductorios y prácticos sobre modelos de ML, deep learning y herram
 - [Deep Learning](./4_ML_IA/Deep_Learning.pdf) – Redes neuronales, frameworks y aplicaciones avanzadas de IA.
 - [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf) – Ecosistema de librerías y plataformas para desarrollo de IA.
 - [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf) – Aplicaciones específicas y casos de uso de tecnologías de IA.
+- [Kaggle Learn](https://www.kaggle.com/learn) – Cursos gratuitos de ML, visualización y más.
+- [Google Colab](https://colab.research.google.com/) – Notebooks con GPUs/TPUs gratuitas.
+- [ML Playground](https://ml-playground.com/) – Visualiza algoritmos de ML en acción.
 
 ---
 
@@ -82,6 +92,9 @@ Guías visuales para orientarte en tu camino como desarrollador o en data, paso 
 - [Roadmap to Python](./5_Roadmaps/Roadmap_Python.pdf) – Ruta de aprendizaje desde principiante hasta desarrollador Python avanzado.
 - [Roadmap to Data Analyst](./5_Roadmaps/Roadmap_Data_Analyst.pdf) – Habilidades y tecnologías para convertirte en analista de datos.
 - [Roadmap to Data Scientist](./5_Roadmaps/Roadmap_Data_Scientist.pdf) – Camino completo hacia el perfil técnico de científico de datos.
+- [GitHub Skills](https://skills.github.com/) – Aprende GitHub con ejercicios interactivos.
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) – Colección de cursos completos en YouTube.
+- [Data Science Learning Path](https://github.com/codebasics/py) – Ruta de aprendizaje con tutoriales prácticos.
 
 ---
 
@@ -93,6 +106,10 @@ Recursos para dar vida a tus proyectos: desde desarrollo web hasta despliegue co
 - [Streamlit](./6_Desarrollo/Streamlit.pdf) – Crea aplicaciones web de datos interactivas con Python y mínimo código.
 - [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
+- [Streamlit Gallery](https://streamlit.io/gallery) – Inspiración con ejemplos de apps.
+- [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
+- [Play with Docker](https://labs.play-with-docker.com/) – Entorno online para probar Docker.
+- [Replit](https://replit.com/) – IDE online para desarrollo y despliegue rápido.
 
 ---
 
@@ -102,6 +119,10 @@ Material para entender mejor los distintos roles en datos, metodologías de trab
 
 - [Roles en Datos](./7_Carrera/Roles_en_Datos.pdf) – Descripción de perfiles profesionales en el ecosistema de datos.
 - [Metodología Ágil](./7_Carrera/Metodologia_Agil.pdf) – Scrum, Kanban y enfoques iterativos para gestionar proyectos de datos.
+- [Hacker Rank](https://www.hackerrank.com/) – Ejercicios técnicos para entrevistas.
+- [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) – Problemas de entrevista más frecuentes.
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) – Guías para entrevistas técnicas.
+- [AngelList](https://angel.co/) – Bolsa de trabajo especializada en startups.
 
 ---
 
@@ -113,6 +134,10 @@ Otros recursos útiles para practicar y seguir aprendiendo.
 - [Git Diagram](https://gitdiagram.com) – Visualiza flujos de Git con diagramas automáticos.
 - [Git Summarize](https://gitsummarize.com) – Resume la historia de tus commits en segundos.
 - [Draw.io](https://www.drawio.com) – Crea diagramas técnicos, flujos y mapas mentales de forma visual.
+- [Daily Dev](https://daily.dev/) – Agregador de noticias para programadores.
+- [Regex101](https://regex101.com/) – Construye y prueba expresiones regulares.
+- [Carbon](https://carbon.now.sh/) – Crea y comparte imágenes bonitas de tu código.
+- [Notion Templates](https://www.notion.so/templates) – Plantillas para organizar proyectos y conocimientos.
 
 ---
 
