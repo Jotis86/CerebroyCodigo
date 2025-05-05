@@ -10,7 +10,7 @@
 [![Recursos](https://img.shields.io/badge/Recursos-50%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
 
 
-![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=600&lines=Bienvenido+a+la+Jotis+Academy;Happy+Learn!;Disfruta+el+camino+%F0%9F%9A%80)
+![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=600&lines=Bienvenido+a+la+Jotis+Academy;Happy+Learn!;Disfruta+el+camino)
 
 Hola! Soy Juan 👋 y este repositorio es mi forma de centralizar todo lo que voy aprendiendo, explicando y compartiendo sobre tecnología: desde Python y análisis de datos hasta DevOps, IA y más.
 
