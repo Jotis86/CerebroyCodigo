@@ -1,4 +1,4 @@
-# 📘 Mi Biblioteca Tech: recursos que he creado y compartido
+# 📘 Mi Biblioteca Tech
 
 ![Mi Biblioteca Tech Banner](./images/tech.png)
 
