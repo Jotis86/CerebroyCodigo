@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Jotis86/JotisAcademy)](https://github.com/Jotis86/JotisAcademy/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Jotis86/JotisAcademy)](https://github.com/Jotis86/JotisAcademy/commits/main)
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/Jotis86/JotisAcademy?label=Total%20Commits)](https://github.com/Jotis86/JotisAcademy/commits/main)
-[![Recursos](https://img.shields.io/badge/Recursos-50%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
+[![Recursos](https://img.shields.io/badge/Recursos-80%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
 
 
 ![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=600&lines=Bienvenido+a+la+Jotis+Academy;Happy+Learn!;Disfruta+el+camino)
