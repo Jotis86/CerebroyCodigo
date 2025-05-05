@@ -44,6 +44,8 @@ Material para adquirir habilidades en la recolección, limpieza y acceso a datos
 - [Limpieza de datos con Python](./2_Gestion_Datos/Limpieza_datos_Python.pdf)
 - [Web Scraping](./2_Gestion_Datos/Web_Scraping.pdf)
 - [APIs](./2_Gestion_Datos/APIs.pdf)
+- [SQLBolt](https://sqlbolt.com/) – Lecciones interactivas para aprender SQL desde cero.
+- [DrawSQL](https://drawsql.app/) – Crea y comparte diagramas de bases de datos de forma visual.
 
 ---
 
