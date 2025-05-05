@@ -35,6 +35,7 @@ Recursos esenciales para sentar una base sólida en programación, buenas práct
 - [IDEs](./1_Fundamentos/IDEs.pdf) – Entornos de desarrollo integrados para programar de forma eficiente.
 - [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf) – Control de versiones y colaboración en proyectos de software.
 - [Exercism](https://exercism.org/) – Mejora tus habilidades con ejercicios prácticos y mentorización.
+- [Real Python](https://realpython.com) – Tutoriales y artículos bien explicados sobre Python, desde básico a avanzado.
 
 ---
 
@@ -52,6 +53,7 @@ Material para adquirir habilidades en la recolección, limpieza y acceso a datos
 - [Kaggle Datasets](https://www.kaggle.com/datasets) – Miles de datasets gratuitos para practicar.
 - [DB-Fiddle](https://www.db-fiddle.com/) – Entorno online para probar consultas SQL.
 - [Public APIs](https://github.com/public-apis/public-apis) – Directorio de APIs gratuitas para practicar.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) – Listado enorme de datasets clasificados por tema.
 
 ---
 
@@ -68,6 +70,7 @@ Documentos enfocados en analizar, entender y comunicar datos mediante herramient
 - [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
 - [Data Viz Project](https://datavizproject.com/) – Catálogo visual de tipos de visualizaciones.
 - [ColorBrewer](https://colorbrewer2.org/) – Selección de paletas de colores para mapas y visualizaciones.
+- [From Data to Viz](https://www.data-to-viz.com) – Guía para elegir la mejor visualización según el tipo de datos.
 
 
 ---
@@ -81,10 +84,14 @@ Recursos introductorios y prácticos sobre modelos de ML, deep learning y herram
 - [Deep Learning](./4_ML_IA/Deep_Learning.pdf) – Redes neuronales, frameworks y aplicaciones avanzadas de IA.
 - [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf) – Ecosistema de librerías y plataformas para desarrollo de IA.
 - [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf) – Aplicaciones específicas y casos de uso de tecnologías de IA.
+- [Dataquest](https://www.dataquest.io) – Aprende análisis y gestión de datos con ejercicios interactivos.
 - [Kaggle Learn](https://www.kaggle.com/learn) – Cursos gratuitos de ML, visualización y más.
 - [Google Colab](https://colab.research.google.com/) – Notebooks con GPUs/TPUs gratuitas.
 - [ML Playground](https://ml-playground.com/) – Visualiza algoritmos de ML en acción.
 - [TensorFlow Playground](https://playground.tensorflow.org/) – Experimenta con redes neuronales interactivamente en tu navegador.
+- [Fast.ai](https://course.fast.ai) – Curso gratuito y práctico de deep learning.
+- [AI Demos by Hugging Face](https://huggingface.co/spaces) – Explora modelos de IA aplicados en vivo.
+- [Papers with Code](https://paperswithcode.com) – Encuentra papers de IA junto con su código.
 
 ---
 
@@ -98,6 +105,7 @@ Guías visuales para orientarte en tu camino como desarrollador o en data, paso 
 - [GitHub Skills](https://skills.github.com/) – Aprende GitHub con ejercicios interactivos.
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) – Colección de cursos completos en YouTube.
 - [Data Science Learning Path](https://github.com/codebasics/py) – Ruta de aprendizaje con tutoriales prácticos.
+- [Roadmap.sh](https://roadmap.sh) – Mapas de aprendizaje interactivos para distintas carreras tech.
 
 ---
 
@@ -113,6 +121,9 @@ Recursos para dar vida a tus proyectos: desde desarrollo web hasta despliegue co
 - [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
 - [Play with Docker](https://labs.play-with-docker.com/) – Entorno online para probar Docker.
 - [Replit](https://replit.com/) – IDE online para desarrollo y despliegue rápido.
+- [PythonAnywhere](https://www.pythonanywhere.com) – Despliega apps de Python en la nube fácilmente.
+- [Heroku](https://www.heroku.com) – Plataforma gratuita (con limitaciones) para desplegar aplicaciones web.
+- [Railway](https://railway.com) – Alternativa moderna para despliegues simples con GitHub y Docker.
 
 ---
 
@@ -126,6 +137,9 @@ Material para entender mejor los distintos roles en datos, metodologías de trab
 - [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) – Problemas de entrevista más frecuentes.
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/) – Guías para entrevistas técnicas.
 - [AngelList](https://angel.co/) – Bolsa de trabajo especializada en startups.
+- [Interview Cake](https://www.interviewcake.com) – Ejercicios de entrevistas técnicas con explicaciones paso a paso.
+- [DataLemur](https://datalemur.com) – Preguntas de entrevistas para roles en datos con práctica interactiva.
+- [Levels.fyi](https://www.levels.fyi/?compare=Glovo,Adevinta,NTT%20DATA&track=Software%20Engineer) – Comparador de roles, niveles y sueldos en empresas tech.
 
 ---
 
@@ -141,6 +155,7 @@ Otros recursos útiles para practicar y seguir aprendiendo.
 - [Regex101](https://regex101.com/) – Construye y prueba expresiones regulares.
 - [Carbon](https://carbon.now.sh/) – Crea y comparte imágenes bonitas de tu código.
 - [Notion Templates](https://www.notion.so/templates) – Plantillas para organizar proyectos y conocimientos.
+- [100 Days of Code](https://www.100daysofcode.com) – Reto para practicar programación de forma constante.
 
 ---
 
