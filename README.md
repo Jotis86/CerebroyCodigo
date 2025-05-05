@@ -18,8 +18,6 @@ Si te gusta aprender de forma práctica, visual y con materiales claros, este re
 
 ## 🧭 Índice de contenidos
 
-![](https://img.shields.io/badge/🧭%20ÍNDICE%20DE%20CONTENIDOS-4287f5?style=for-the-badge)
-
 Cada sección agrupa los materiales por temática, y dentro encontrarás PDFs descargables organizados por carpetas.
 Este repositorio está pensado para acompañarte en tu camino de aprendizaje o para consultar cuando lo necesites.
 
