@@ -69,6 +69,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf) – Software y plataformas para crear dashboards y reportes visuales.
 - [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf) – Introducción a la herramienta de Microsoft para business intelligence.
 - [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
+- [Power BI Master en DAX](./3_Analisis_Visualizacion/Power_BI_Master_en_DAX.pdf) – Una guía práctica y completa para dominar el lenguaje DAX en tus proyectos de Power BI.  
 - [Data Viz Project](https://datavizproject.com/) – Catálogo visual de tipos de visualizaciones.
 - [ColorBrewer](https://colorbrewer2.org/) – Selección de paletas de colores para mapas y visualizaciones.
 - [From Data to Viz](https://www.data-to-viz.com) – Guía para elegir la mejor visualización según el tipo de datos.
@@ -103,6 +104,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Roadmap to Python](./5_Roadmaps/Roadmap_Python.pdf) – Ruta de aprendizaje desde principiante hasta desarrollador Python avanzado.
 - [Roadmap to Data Analyst](./5_Roadmaps/Roadmap_Data_Analyst.pdf) – Habilidades y tecnologías para convertirte en analista de datos.
 - [Roadmap to Data Scientist](./5_Roadmaps/Roadmap_Data_Scientist.pdf) – Camino completo hacia el perfil técnico de científico de datos.
+- [Roadmap to Data Engineer](./5_Roadmaps/Roadmap_Data_Engineer.pdf) – Etapas clave para convertirte en ingeniero de datos, desde la programación hasta el cloud.  
 - [GitHub Skills](https://skills.github.com/) – Aprende GitHub con ejercicios interactivos.
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) – Colección de cursos completos en YouTube.
 - [Data Science Learning Path](https://github.com/codebasics/py) – Ruta de aprendizaje con tutoriales prácticos.
