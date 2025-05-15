@@ -119,6 +119,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Desarrollo Web con Python](./6_Desarrollo/Desarrollo_Web.pdf) – Django y Flask para construcción de páginas web.
 - [Streamlit](./6_Desarrollo/Streamlit.pdf) – Crea aplicaciones web de datos interactivas con Python y mínimo código.
 - [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
+- [Kubernetes](./6_Desarrollo/Kubernetes.pdf) – Orquestador de contenedores que automatiza el despliegue, escalado y gestión de aplicaciones.
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
 - [Streamlit Gallery](https://streamlit.io/gallery) – Inspiración con ejemplos de apps.
 - [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
