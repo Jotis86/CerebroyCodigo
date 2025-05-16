@@ -122,6 +122,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Streamlit](./6_Desarrollo/Streamlit.pdf) – Crea aplicaciones web de datos interactivas con Python y mínimo código.
 - [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
 - [Kubernetes](./6_Desarrollo/Kubernetes.pdf) – Orquesta contenedores para desplegar, escalar y gestionar apps automáticamente.
+- [CI/CD](./6_Desarrollo/CICD.pdf) – Automatiza tests, builds y despliegues para ganar tiempo y evitar errores.
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
 - [Streamlit Gallery](https://streamlit.io/gallery) – Inspiración con ejemplos de apps.
 - [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
