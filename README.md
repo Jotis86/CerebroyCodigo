@@ -30,7 +30,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Python (general)](./1_Fundamentos/Python.pdf) – Fundamentos del lenguaje, sintaxis y conceptos clave para comenzar.
 - [Buenas prácticas en Python](./1_Fundamentos/Buenas_practicas_Python.pdf) – Convenciones, patrones y estilos recomendados para código limpio.
 - [Automatización con Python](./1_Fundamentos/Automatizacion_Python.pdf) – Técnicas para automatizar tareas repetitivas y flujos de trabajo.
-- [Testing en Python](./1_Fundamentos/Testing_Python.pdf) – Conceptos de pruebas unitarias e integración para código confiable.
+- [Testing en Python](./1_Fundamentos/Testing_en_Python.pdf) – Conceptos de pruebas unitarias e integración para código confiable.
 - [Pytest](./1_Fundamentos/Pytest.pdf) – Framework popular para testing en Python, con ejemplos prácticos.
 - [IDEs](./1_Fundamentos/IDEs.pdf) – Entornos de desarrollo integrados para programar de forma eficiente.
 - [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf) – Control de versiones y colaboración en proyectos de software.
