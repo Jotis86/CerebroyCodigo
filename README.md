@@ -172,6 +172,26 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 
 ---
 
+## 🗺️ Rutas de Estudio Estructuradas
+
+**Tu plan de vuelo personalizado**: Itinerarios diseñados para llevarte desde principiante hasta profesional, combinando los recursos del repositorio de forma estructurada y progresiva.
+
+### 📊 [Ruta 1: Analista de Datos](./rutas/analista-datos.md) 
+Desde fundamentos de Python hasta visualizaciones profesionales con Power BI, pasando por análisis de datos y metodologías ágiles.
+
+### 🔬 [Ruta 2: Científico de Datos](./rutas/cientifico-datos.md) 
+Machine Learning, Deep Learning y despliegue de modelos predictivos para resolver problemas complejos con datos.
+
+### 💻 [Ruta 3: Desarrollador Python Full-Stack](./rutas/desarrollador-python.md) 
+Desarrollo web completo con Python, desde APIs hasta aplicaciones desplegadas con Docker y buenas prácticas.
+
+### ⚙️ [Ruta 4: Ingeniero DevOps](./rutas/ingeniero-devops.md) 
+Automatización, infraestructura como código, contenerización y orquestación de sistemas distribuidos.
+
+> 💡 **Consejo**: Cada ruta incluye recursos específicos del repositorio y proyectos prácticos para consolidar el aprendizaje.
+
+---
+
 ## 🤝 ¿Te resultó útil?
 
 Si estos recursos te han ayudado en tu camino de aprendizaje, aquí hay algunas formas de contribuir:
