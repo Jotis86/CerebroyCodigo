@@ -10,11 +10,13 @@
 [![Recursos](https://img.shields.io/badge/Recursos-80%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
 
 
-![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=FFCF02&width=600&lines=Bienvenido+a+la+Jotis+Academy;Happy+Learn!;Disfruta+el+camino)
+![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=00FFAB&width=600&lines=Cerebro+y+Código.;Contenido+tech+con+sentido.)
 
 Hola! Soy Juan 👋 y este repositorio es mi forma de centralizar todo lo que voy aprendiendo, explicando y compartiendo sobre tecnología: desde Python y análisis de datos hasta DevOps, IA y más.
 
 Si te gusta aprender de forma práctica, visual y con materiales claros, este repo es para ti! 
+
+📸 Sígueme en **[@cerebroycodigo](https://instagram.com/cerebroycodigo)** para contenido semanal sobre programación, datos e IA.
 
 ---
 
