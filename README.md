@@ -1,5 +1,3 @@
-# 📘 Mi Biblioteca Tech
-
 ![Mi Biblioteca Tech Banner](./image/Banner.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/Jotis86/JotisAcademy?style=social)](https://github.com/Jotis86/JotisAcademy/stargazers)
