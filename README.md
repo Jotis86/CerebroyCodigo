@@ -188,6 +188,9 @@ Desarrollo web completo con Python, desde APIs hasta aplicaciones desplegadas co
 ### ⚙️ [Ruta 4: Ingeniero DevOps](./rutas/ingeniero-devops.md) 
 Automatización, infraestructura como código, contenerización y orquestación de sistemas distribuidos.
 
+### 🔧 [Ruta 5: Ingeniero de Datos](./rutas/ingeniero-datos.md)
+Diseño de arquitecturas de datos escalables, pipelines ETL/ELT, big data y tecnologías de streaming para gestionar datos a gran escala.
+
 > 💡 **Consejo**: Cada ruta incluye recursos específicos del repositorio y proyectos prácticos para consolidar el aprendizaje.
 
 ---
