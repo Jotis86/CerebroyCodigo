@@ -30,7 +30,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Python (general)](./1_Fundamentos/Python.pdf) – Fundamentos del lenguaje, sintaxis y conceptos clave para comenzar.
 - [Buenas prácticas en Python](./1_Fundamentos/Buenas_practicas_Python.pdf) – Convenciones, patrones y estilos recomendados para código limpio.
 - [Automatización con Python](./1_Fundamentos/Automatizacion_Python.pdf) – Técnicas para automatizar tareas repetitivas y flujos de trabajo.
-- [Testing en Python](./1_Fundamentos/Testing_Python.pdf) – Conceptos de pruebas unitarias e integración para código confiable.
+- [Testing en Python](./1_Fundamentos/Testing_en_Python.pdf) – Conceptos de pruebas unitarias e integración para código confiable.
 - [Pytest](./1_Fundamentos/Pytest.pdf) – Framework popular para testing en Python, con ejemplos prácticos.
 - [IDEs](./1_Fundamentos/IDEs.pdf) – Entornos de desarrollo integrados para programar de forma eficiente.
 - [Git y GitHub](./1_Fundamentos/Git_y_GitHub.pdf) – Control de versiones y colaboración en proyectos de software.
@@ -69,6 +69,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf) – Software y plataformas para crear dashboards y reportes visuales.
 - [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf) – Introducción a la herramienta de Microsoft para business intelligence.
 - [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
+- [Power BI Master en DAX](./3_Analisis_Visualizacion/Power_BI_Master_en_DAX.pdf) – Una guía práctica y completa para dominar el lenguaje DAX.
 - [Data Viz Project](https://datavizproject.com/) – Catálogo visual de tipos de visualizaciones.
 - [ColorBrewer](https://colorbrewer2.org/) – Selección de paletas de colores para mapas y visualizaciones.
 - [From Data to Viz](https://www.data-to-viz.com) – Guía para elegir la mejor visualización según el tipo de datos.
@@ -103,6 +104,9 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Roadmap to Python](./5_Roadmaps/Roadmap_Python.pdf) – Ruta de aprendizaje desde principiante hasta desarrollador Python avanzado.
 - [Roadmap to Data Analyst](./5_Roadmaps/Roadmap_Data_Analyst.pdf) – Habilidades y tecnologías para convertirte en analista de datos.
 - [Roadmap to Data Scientist](./5_Roadmaps/Roadmap_Data_Scientist.pdf) – Camino completo hacia el perfil técnico de científico de datos.
+- [Roadmap to Data Engineer](./5_Roadmaps/Roadmap_Data_Engineer.pdf) – Etapas clave para convertirte en ingeniero de datos.
+- [Roadmap to BI Analyst](./5_Roadmaps/Roadmap_BI_Analyst.pdf) – Guía completa para especializarte como analista de inteligencia de negocio.
+- [Roadmap to Machine Learning Engineer](./5_Roadmaps/Roadmap_ML_Engineer.pdf) – Pasos claros para convertirte en ML Engineer.
 - [GitHub Skills](https://skills.github.com/) – Aprende GitHub con ejercicios interactivos.
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) – Colección de cursos completos en YouTube.
 - [Data Science Learning Path](https://github.com/codebasics/py) – Ruta de aprendizaje con tutoriales prácticos.
@@ -117,6 +121,10 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Desarrollo Web con Python](./6_Desarrollo/Desarrollo_Web.pdf) – Django y Flask para construcción de páginas web.
 - [Streamlit](./6_Desarrollo/Streamlit.pdf) – Crea aplicaciones web de datos interactivas con Python y mínimo código.
 - [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
+- [Kubernetes](./6_Desarrollo/Kubernetes.pdf) – Orquesta contenedores para desplegar, escalar y gestionar apps automáticamente.
+- [CI/CD](./6_Desarrollo/CICD.pdf) – Automatiza tests, builds y despliegues para ganar tiempo y evitar errores.
+- [Jenkins](./6_Desarrollo/Jenkins.pdf) – Herramienta de automatización open source para integración y entrega continua (CI/CD).  
+- [Terraform](./6_Desarrollo/Terraform.pdf) – Infraestructura como código para gestionar recursos cloud de forma declarativa y reproducible.  
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
 - [Streamlit Gallery](https://streamlit.io/gallery) – Inspiración con ejemplos de apps.
 - [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
@@ -157,6 +165,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Carbon](https://carbon.now.sh/) – Crea y comparte imágenes bonitas de tu código.
 - [Notion Templates](https://www.notion.so/templates) – Plantillas para organizar proyectos y conocimientos.
 - [100 Days of Code](https://www.100daysofcode.com) – Reto para practicar programación de forma constante.
+- [DataSciencePortfol.io](https://www.datascienceportfol.io) – Crea un portafolio visual y profesional de tus proyectos de ciencia de datos.
 
 ---
 
