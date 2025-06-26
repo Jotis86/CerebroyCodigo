@@ -68,7 +68,6 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Herramientas de visualización](./3_Analisis_Visualizacion/Herramientas_Visualizacion.pdf) – Software y plataformas para crear dashboards y reportes visuales.
 - [Power BI](./3_Analisis_Visualizacion/PowerBI.pdf) – Introducción a la herramienta de Microsoft para business intelligence.
 - [DAX en Power BI](./3_Analisis_Visualizacion/DAX_en_PowerBI.pdf) – Lenguaje de fórmulas para cálculos avanzados en Power BI.
-- [Power BI Master en DAX](./3_Analisis_Visualizacion/Power_BI_Master_en_DAX.pdf) – Una guía práctica y completa para dominar el lenguaje DAX.
 - [Data Viz Project](https://datavizproject.com/) – Catálogo visual de tipos de visualizaciones.
 - [ColorBrewer](https://colorbrewer2.org/) – Selección de paletas de colores para mapas y visualizaciones.
 - [From Data to Viz](https://www.data-to-viz.com) – Guía para elegir la mejor visualización según el tipo de datos.
