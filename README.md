@@ -1,4 +1,4 @@
-![Mi Biblioteca Tech Banner](./image/Banner.png)
+![Mi Biblioteca Tech Banner](./image/banner_principal.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/Jotis86/CerebroyCodigo?style=social)](https://github.com/Jotis86/CerebroyCodigo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Jotis86/CerebroyCodigo?style=social)](https://github.com/Jotis86/CerebroyCodigo/network/members)
