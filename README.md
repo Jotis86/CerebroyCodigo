@@ -1,12 +1,11 @@
 ![Mi Biblioteca Tech Banner](./image/Banner.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/Jotis86/JotisAcademy?style=social)](https://github.com/Jotis86/JotisAcademy/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Jotis86/JotisAcademy?style=social)](https://github.com/Jotis86/JotisAcademy/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Jotis86/JotisAcademy)](https://github.com/Jotis86/JotisAcademy/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Jotis86/JotisAcademy)](https://github.com/Jotis86/JotisAcademy/commits/main)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/Jotis86/JotisAcademy?label=Total%20Commits)](https://github.com/Jotis86/JotisAcademy/commits/main)
-[![Recursos](https://img.shields.io/badge/Recursos-100%2B-brightgreen)](https://github.com/Jotis86/JotisAcademy)
-
+[![GitHub stars](https://img.shields.io/github/stars/Jotis86/CerebroyCodigo?style=social)](https://github.com/Jotis86/CerebroyCodigo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jotis86/CerebroyCodigo?style=social)](https://github.com/Jotis86/CerebroyCodigo/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Jotis86/CerebroyCodigo)](https://github.com/Jotis86/CerebroyCodigo/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Jotis86/CerebroyCodigo)](https://github.com/Jotis86/CerebroyCodigo/commits/main)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/Jotis86/CerebroyCodigo?label=Total%20Commits)](https://github.com/Jotis86/CerebroyCodigo/commits/main)
+[![Recursos](https://img.shields.io/badge/Recursos-100%2B-brightgreen)](https://github.com/Jotis86/CerebroyCodigo)
 
 ![welcome](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&pause=1000&color=00FFAB&width=600&lines=Cerebro+y+Código;Contenido+tech+con+sentido)
 
