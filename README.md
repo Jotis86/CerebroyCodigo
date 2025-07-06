@@ -13,7 +13,7 @@ Hola! Soy Juan 👋 y este repositorio es mi forma de centralizar todo lo que vo
 
 Si te gusta aprender de forma práctica, visual y con materiales claros, este repo es para ti! 
 
-📸 Sígueme en mi cuenta de Instagram **[@cerebroycodigo](https://instagram.com/cerebroycodigo)** para contenido semanal sobre programación, datos e IA.
+📸 Sígueme en mi Instagram **[@cerebroycodigo](https://instagram.com/cerebroycodigo)** para contenido semanal sobre programación, datos e IA.
 
 ---
 
