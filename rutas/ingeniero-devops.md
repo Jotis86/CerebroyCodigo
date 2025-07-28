@@ -69,6 +69,7 @@ Convertirte en un Ingeniero DevOps capaz de automatizar despliegues, gestionar i
 **📚 Recursos del repositorio:**
 - [Terraform](../6_Desarrollo/Terraform.pdf)
 - [CI/CD](../6_Desarrollo/CICD.pdf)
+- [GitHub Actions](../6_Desarrollo/GitHub_Actions.pdf)
 - [Jenkins](../6_Desarrollo/Jenkins.pdf)
 
 **🌐 Recursos complementarios:**
