@@ -126,7 +126,6 @@ Plataforma de IA multi-modal (texto, imagen, audio) para una vertical específic
 
 ## 🛠️ Stack Tecnológico AI Engineering
 
-### Deep Learning Frameworks:
 ```python
 # Core Frameworks
 tensorflow>=2.13
