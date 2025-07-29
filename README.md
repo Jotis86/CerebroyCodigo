@@ -122,7 +122,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Docker](./6_Desarrollo/Docker.pdf) – Contenedores para empaquetar, distribuir y ejecutar aplicaciones.
 - [Kubernetes](./6_Desarrollo/Kubernetes.pdf) – Orquesta contenedores para desplegar, escalar y gestionar apps automáticamente.
 - [CI/CD](./6_Desarrollo/CICD.pdf) – Automatiza tests, builds y despliegues para ganar tiempo y evitar errores.
-- [Jenkins](./6_Desarrollo/JENKINS.pdf) – Herramienta de automatización open source para integración y entrega continua (CI/CD).  
+- [Jenkins](./6_Desarrollo/Jenkins_2.pdf) – Herramienta de automatización open source para integración y entrega continua (CI/CD).  
 - [GitHub Actions](./6_Desarrollo/GitHub_Actions.pdf) – Herramienta de automatización open source para integración y entrega continua (CI/CD).
 - [Terraform](./6_Desarrollo/Terraform.pdf) – Infraestructura como código para gestionar recursos cloud de forma declarativa y reproducible.  
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
