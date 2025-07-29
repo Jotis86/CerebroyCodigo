@@ -1,6 +1,6 @@
 # 🤖 Ruta de Estudio: Ingeniero de IA
 
-![AI Engineer Banner](https://img.shields.io/badge/Duración-16--20%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Avanzado%20a%20Experto-red) ![Dedicación](https://img.shields.io/badge/Dedicación-20--25h%2Fsemana-orange)
+![AI Engineer Banner](https://img.shields.io/badge/Duración-24--28%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Avanzado%20a%20Experto-red) ![Dedicación](https://img.shields.io/badge/Dedicación-20--25h%2Fsemana-orange)
 
 ## 🎯 Objetivo de la Ruta
 
