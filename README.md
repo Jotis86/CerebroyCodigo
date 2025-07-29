@@ -105,6 +105,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Roadmap to Data Engineer](./5_Roadmaps/Roadmap_Data_Engineer.pdf) – Etapas clave para convertirte en ingeniero de datos.
 - [Roadmap to BI Analyst](./5_Roadmaps/Roadmap_BI_Analyst.pdf) – Guía completa para especializarte como analista de inteligencia de negocio.
 - [Roadmap to Machine Learning Engineer](./5_Roadmaps/Roadmap_ML_Engineer.pdf) – Pasos claros para convertirte en ML Engineer.
+- [Roadmap to AI Engineer](./5_Roadmaps/AI_Engineer.pdf) – Una ruta clara para ser AI Engineer.
 - [Roadmap to DevOps Engineer](./5_Roadmaps/DevOps_Engineer.pdf) – Itinerario completo para dominar el mundo DevOps.
 - [GitHub Skills](https://skills.github.com/) – Aprende GitHub con ejercicios interactivos.
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) – Colección de cursos completos en YouTube.
