@@ -90,6 +90,7 @@ Análisis exploratorio completo de un dataset complejo con más de 100k registro
 - [Docker](../6_Desarrollo/Docker.pdf)
 - [Roadmap to Data Scientist](../5_Roadmaps/Roadmap_Data_Scientist.pdf)
 - [DevOps](../6_Desarrollo/DevOps.pdf)
+- [Bash](../6_Desarrollo/Bash.pdf) 
 
 **🌐 Recursos complementarios:**
 - [MLflow](https://mlflow.org/) - Gestión del ciclo de vida ML

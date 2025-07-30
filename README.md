@@ -127,6 +127,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [GitHub Actions](./6_Desarrollo/GitHub_Actions.pdf) – Herramienta de automatización open source para integración y entrega continua (CI/CD).
 - [Terraform](./6_Desarrollo/Terraform.pdf) – Infraestructura como código para gestionar recursos cloud de forma declarativa y reproducible.  
 - [DevOps](./6_Desarrollo/DevOps.pdf) – Cultura, prácticas y herramientas para integración y despliegue continuo.
+- [Bash](./6_Desarrollo/Bash.pdf) – Introducción al Bash Scripting.
 - [Streamlit Gallery](https://streamlit.io/gallery) – Inspiración con ejemplos de apps.
 - [Render](https://render.com/) – Despliegue sencillo para aplicaciones web y APIs.
 - [Play with Docker](https://labs.play-with-docker.com/) – Entorno online para probar Docker.

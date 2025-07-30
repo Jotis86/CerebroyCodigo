@@ -109,6 +109,7 @@ Convertirte en un desarrollador Python Full-Stack capaz de crear aplicaciones we
 **📚 Recursos del repositorio:**
 - [Docker](../6_Desarrollo/Docker.pdf)
 - [DevOps](../6_Desarrollo/DevOps.pdf)
+- [Bash](../6_Desarrollo/Bash.pdf)
 - [CI/CD](../6_Desarrollo/CICD.pdf)
 - [Metodología Ágil](../7_Carrera/Metodologia_Agil.pdf)
 

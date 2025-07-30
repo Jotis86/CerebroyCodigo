@@ -67,6 +67,7 @@ Convertirte en un Ingeniero DevOps capaz de automatizar despliegues, gestionar i
 **Objetivo**: Automatizar la gestión de infraestructura cloud.
 
 **📚 Recursos del repositorio:**
+- [Bash](../6_Desarrollo/Bash.pdf)
 - [Terraform](../6_Desarrollo/Terraform.pdf)
 - [CI/CD](../6_Desarrollo/CICD.pdf)
 - [GitHub Actions](../6_Desarrollo/GitHub_Actions.pdf)

@@ -74,6 +74,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 **📚 Recursos del repositorio:**
 - [Python en análisis de datos](../3_Analisis_Visualizacion/Python_Analisis_Datos.pdf)
+- [Bash](../6_Desarrollo/Bash.pdf)
 - [Docker](../6_Desarrollo/Docker.pdf)
 - [Kubernetes](../6_Desarrollo/Kubernetes.pdf)
 

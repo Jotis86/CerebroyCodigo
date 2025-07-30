@@ -31,6 +31,7 @@ Convertirte en un Ingeniero de IA capaz de diseñar, desarrollar y desplegar sis
 - [Machine Learning](../4_ML_IA/Machine_Learning.pdf)
 - [Deep Learning](../4_ML_IA/Deep_Learning.pdf)
 - [Proyectos de ML](../4_ML_IA/Proyectos_ML.pdf)
+- [Bash](../6_Desarrollo/Bash.pdf)
 
 **🌐 Recursos complementarios:**
 - [Papers with Code](https://paperswithcode.com) - Últimas investigaciones con código
