@@ -47,6 +47,9 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Limpieza de datos con Python](./2_Gestion_Datos/Limpieza_datos_Python.pdf) – Técnicas para preprocesar y transformar datos desordenados.
 - [Web Scraping](./2_Gestion_Datos/Web_Scraping.pdf) – Extracción automática de información de sitios web con Python.
 - [APIs](./2_Gestion_Datos/APIs.pdf) – Consumo y creación de interfaces de programación para intercambio de datos.
+- [Apache Airflow](./2_Gestion_Datos/Airflow.pdf) – Orquesta flujos de trabajo complejos de datos de forma programada y escalable.
+- [Apache Kafka](./2_Gestion_Datos/Kafka.pdf) – Sistema distribuido de mensajería en tiempo real para procesar grandes volúmenes de datos.
+- [Apache Spark](./2_Gestion_Datos/Spark.pdf) – Motor rápido de procesamiento de datos en paralelo para análisis a gran escala.
 - [SQLBolt](https://sqlbolt.com/) – Lecciones interactivas para aprender SQL desde cero.
 - [DrawSQL](https://drawsql.app/) – Crea y comparte diagramas de bases de datos de forma visual.
 - [Kaggle Datasets](https://www.kaggle.com/datasets) – Miles de datasets gratuitos para practicar.
