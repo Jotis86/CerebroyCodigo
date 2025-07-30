@@ -21,7 +21,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 ## 🗓️ Cronograma Detallado
 
-### **Fase 1 (Semana 1-3): Fundamentos y Python Avanzado** 🐍
+### **Fase 1 (Semana 1-4): Fundamentos y Python Avanzado** 🐍
 
 **Objetivo**: Establecer bases sólidas en programación y automatización para ingeniería de datos.
 
@@ -43,7 +43,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 ---
 
-### **Fase 2 (Semana 4-7): Gestión Avanzada de Datos** 🗃️
+### **Fase 2 (Semana 5-10): Gestión Avanzada de Datos** 🗃️
 
 **Objetivo**: Dominar técnicas de extracción, transformación y carga de datos.
 
@@ -71,7 +71,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 ---
 
-### **Fase 3 (Semana 8-11): Big Data y Procesamiento Distribuido** 🌐
+### **Fase 3 (Semana 11-15): Big Data y Procesamiento Distribuido** 🌐
 
 **Objetivo**: Trabajar con volúmenes masivos de datos usando tecnologías distribuidas.
 
@@ -95,7 +95,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 ---
 
-### **Fase 4 (Semana 12-15): Cloud y DataOps** ☁️
+### **Fase 4 (Semana 15-20): Cloud y DataOps** ☁️
 
 **Objetivo**: Implementar soluciones de datos en la nube con prácticas DevOps.
 
@@ -119,7 +119,7 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 
 ---
 
-### **Fase 5 (Semana 16-18): Proyecto Final Enterprise** 🏢
+### **Fase 5 (Semana 20-24): Proyecto Final Enterprise** 🏢
 
 **Objetivo**: Crear una plataforma completa de datos para una empresa ficticia.
 
