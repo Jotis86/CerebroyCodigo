@@ -1,6 +1,6 @@
 # 🔧 Ruta de Estudio: Ingeniero de Datos
 
-![Data Engineer Banner](https://img.shields.io/badge/Duración-14--18%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Intermedio%20a%20Avanzado-red) ![Dedicación](https://img.shields.io/badge/Dedicación-15--20h%2Fsemana-orange)
+![Data Engineer Banner](https://img.shields.io/badge/Duración-20--24%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Intermedio%20a%20Avanzado-red) ![Dedicación](https://img.shields.io/badge/Dedicación-15--20h%2Fsemana-orange)
 
 ## 🎯 Objetivo de la Ruta
 
