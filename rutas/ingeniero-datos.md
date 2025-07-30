@@ -53,6 +53,9 @@ Convertirte en un Ingeniero de Datos capaz de diseñar, construir y mantener arq
 - [Limpieza de datos con Python](../2_Gestion_Datos/Limpieza_datos_Python.pdf)
 - [Web Scraping](../2_Gestion_Datos/Web_Scraping.pdf)
 - [APIs](../2_Gestion_Datos/APIs.pdf)
+- [Apache Airflow](../2_Gestion_Datos/Airflow.pdf) 
+- [Apache Kafka](../2_Gestion_Datos/Kafka.pdf) 
+- [Apache Spark](../2_Gestion_Datos/Spark.pdf) 
 
 **🌐 Recursos complementarios:**
 - [dbt](https://www.getdbt.com/) - Transformaciones modernas de datos
