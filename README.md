@@ -198,6 +198,9 @@ Diseño de arquitecturas de datos escalables, pipelines ETL/ELT, big data y tecn
 ### 🤖 [Ruta 6: Ingeniero de IA](./rutas/ai-engineer.md)
 Desarrollo de sistemas de IA end-to-end, desde investigación hasta producción, incluyendo LLMs, computer vision y MLOps avanzado.
 
+### 📈 [Ruta 7: Analista de Business Intelligence](./rutas/bi-analyst.md) 
+Transformación de datos empresariales en insights estratégicos con Power BI, Tableau y storytelling avanzado para la toma de decisiones ejecutivas.
+
 > 💡 **Consejo**: Cada ruta incluye recursos específicos del repositorio y proyectos prácticos para consolidar el aprendizaje.
 
 ---
