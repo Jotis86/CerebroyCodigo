@@ -1,6 +1,6 @@
 # 📊 Ruta de Estudio: Analista de Business Intelligence
 
-![BI Analyst Banner](https://img.shields.io/badge/Duración-10--14%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Principiante%20a%20Avanzado-green) ![Dedicación](https://img.shields.io/badge/Dedicación-12--18h%2Fsemana-orange)
+![BI Analyst Banner](https://img.shields.io/badge/Duración-14--18%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Principiante%20a%20Avanzado-green) ![Dedicación](https://img.shields.io/badge/Dedicación-12--18h%2Fsemana-orange)
 
 ## 🎯 Objetivo de la Ruta
 
