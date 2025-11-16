@@ -89,6 +89,9 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 - [Deep Learning](./4_ML_IA/Deep_Learning.pdf) – Redes neuronales, frameworks y aplicaciones avanzadas de IA.
 - [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf) – Ecosistema de librerías y plataformas para desarrollo de IA.
 - [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf) – Aplicaciones específicas y casos de uso de tecnologías de IA.
+- [LLMs](./4_ML_IA/LLMs.pdf) – De la predicción de palabras, a la IA conversacional.
+- [Prompt Engineering](./4_ML_IA/Prompt.pdf) – El arte de hablar con la IA para obtener mejores resultados.
+- [RAG](./4_ML_IA/RAG.pdf) – Como darle a la IA acceso a info específica.
 - [Dataquest](https://www.dataquest.io) – Aprende análisis y gestión de datos con ejercicios interactivos.
 - [Kaggle Learn](https://www.kaggle.com/learn) – Cursos gratuitos de ML, visualización y más.
 - [Google Colab](https://colab.research.google.com/) – Notebooks con GPUs/TPUs gratuitas.
