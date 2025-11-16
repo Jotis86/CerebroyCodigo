@@ -75,6 +75,9 @@ Convertirte en un Ingeniero de IA capaz de diseñar, desarrollar y desplegar sis
 - [Roadmap to AI Engineer](../5_Roadmaps/AI_Engineer.pdf)
 - [Web Scraping](../2_Gestion_Datos/Web_Scraping.pdf)
 - [Limpieza de datos con Python](../2_Gestion_Datos/Limpieza_datos_Python.pdf)
+- [LLMs](../4_ML_IA/LLMs.pdf) 
+- [Prompt Engineering](../4_ML_IA/Prompt.pdf) 
+- [RAG](../4_ML_IA/RAG.pdf)
 
 **🌐 Recursos complementarios:**
 - [OpenAI API](https://platform.openai.com/) - GPT integration
