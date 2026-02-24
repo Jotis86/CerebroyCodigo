@@ -1,6 +1,6 @@
 # 🚀 Ruta de Estudio: Ingeniero de Machine Learning
 
-![ML Engineer Banner](https://img.shields.io/badge/Duración-16--20%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Intermedio%20a%20Avanzado-red) ![Dedicación](https://img.shields.io/badge/Dedicación-18--22h%2Fsemana-orange)
+![ML Engineer Banner](https://img.shields.io/badge/Duración-20--24%20semanas-blue) ![Nivel](https://img.shields.io/badge/Nivel-Intermedio%20a%20Avanzado-red) ![Dedicación](https://img.shields.io/badge/Dedicación-20--22h%2Fsemana-orange)
 
 ## 🎯 Objetivo de la Ruta
 
