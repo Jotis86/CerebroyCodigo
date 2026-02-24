@@ -54,9 +54,10 @@ Análisis exploratorio completo de un dataset complejo con más de 100k registro
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Competencias reales
 - [ML Playground](https://ml-playground.com/) - Visualización de algoritmos
 - [Papers with Code](https://paperswithcode.com) - Implementaciones de papers
+- [Repositorio de 6 Proyectos de ML](https://github.com/Jotis86/Machine-Learning) - Proyectos completos educativos: clasificación, regresión, clustering, series temporales y NLP
 
 **🎯 Proyectos de la fase:**
-1. **Semana 5-6**: Modelo de clasificación para detección de fraude
+1. **Semana 5-6**: Modelo de clasificación para detección de fraude (Ver ejemplos en [repositorio de proyectos ML](https://github.com/Jotis86/Machine-Learning))
 2. **Semana 7-8**: Sistema de recomendación con técnicas de clustering
 
 ---

@@ -38,9 +38,10 @@ Convertirte en un Ingeniero de IA capaz de diseñar, desarrollar y desplegar sis
 - [TensorFlow Playground](https://playground.tensorflow.org/) - Experimentación visual
 - [Fast.ai](https://course.fast.ai) - Curso práctico avanzado
 - [Google Colab](https://colab.research.google.com/) - GPU/TPU gratuitas
+- [Repositorio de 6 Proyectos de ML](https://github.com/Jotis86/Machine-Learning) - Proyectos completos educativos: clasificación, regresión, clustering, series temporales y NLP
 
 **🎯 Proyectos de la fase:**
-- **Semana 1-2**: Implementar 5+ algoritmos ML desde cero (sin librerías)
+- **Semana 1-2**: Implementar 5+ algoritmos ML desde cero (sin librerías). Consulta [proyectos de referencia](https://github.com/Jotis86/Machine-Learning) para inspiración
 - **Semana 3-4**: Red neuronal profunda para computer vision con arquitectura custom
 
 ---

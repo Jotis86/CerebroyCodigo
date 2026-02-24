@@ -86,6 +86,7 @@ Este repositorio está pensado para acompañarte en tu camino de aprendizaje o p
 
 - [Machine Learning](./4_ML_IA/Machine_Learning.pdf) – Fundamentos, algoritmos y metodología para crear modelos predictivos.
 - [Proyectos de ML](./4_ML_IA/Proyectos_ML.pdf) – Ideas y guías paso a paso para implementar soluciones de ML prácticas.
+- [Repositorio de 6 Proyectos de ML](https://github.com/Jotis86/Machine-Learning) – Colección completa de proyectos educativos abarcando clasificación, regresión, clustering, series temporales y NLP.
 - [Deep Learning](./4_ML_IA/Deep_Learning.pdf) – Redes neuronales, frameworks y aplicaciones avanzadas de IA.
 - [Herramientas de IA - Parte 1](./4_ML_IA/Herramientas_IA_1.pdf) – Ecosistema de librerías y plataformas para desarrollo de IA.
 - [Herramientas de IA - Parte 2](./4_ML_IA/Herramientas_IA_2.pdf) – Aplicaciones específicas y casos de uso de tecnologías de IA.
